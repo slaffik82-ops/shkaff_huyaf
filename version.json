@@ -6,5 +6,5 @@
   "db_version": 6,
   "db_url": "https://raw.githubusercontent.com/slaffik82-ops/shkaff_huyaf/main/telecom_cabinets.enc",
   "db_description": "Свежая база шкафов",
-  "db_pin_hash": "ВСТАВИТЬ_ХЕШ_ИЗ_PYTHON"
+  "db_pin_hash": "2b008bc784eb24e8b14e2d8eea061611f1e581d5e81a5a360d6b5f26eda7629f"
 }
