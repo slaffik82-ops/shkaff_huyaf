@@ -3,7 +3,7 @@
   "apk_url": "https://github.com/slaffik82-ops/shkaff_huyaf/releases/download/v1.0.15/app-release.apk",
   "app_description": "Обновление",
 
-  "db_version": 7,
+  "db_version": 8,
   "db_url": "https://cdn.jsdelivr.net/gh/slaffik82-ops/shkaff_huyaf@main/telecom_cabinets.enc",
   "db_description": "Свежая база шкафов",
   "db_pin_hash": "2b008bc784eb24e8b14e2d8eea061611f1e581d5e81a5a360d6b5f26eda7629f"
