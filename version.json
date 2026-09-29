@@ -1,9 +1,10 @@
 {
-  "app_version_code": 13,
-  "apk_url": "https://github.com/slaffik82-ops/shkaff_huyaf/releases/download/v1.0.13/app-release.apk",
-  "app_description": "Что нового:\n• Внедрено шифрование\n• обновление по воздуху прилетает корректно",
+  "app_version_code": 14,
+  "apk_url": "https://github.com/slaffik82-ops/shkaff_huyaf/releases/download/v1.0.14/app-release.apk",
+  "app_description": "Обновление",
 
   "db_version": 6,
-  "db_url": "https://raw.githubusercontent.com/slaffik82-ops/shkaff_huyaf/main/telecom_cabinets.db",
-  "db_description": "Загрузка полной базы (с пятым этажом)"
+  "db_url": "https://raw.githubusercontent.com/slaffik82-ops/shkaff_huyaf/main/telecom_cabinets.enc",
+  "db_description": "Свежая база шкафов",
+  "db_pin_hash": "ВСТАВИТЬ_ХЕШ_ИЗ_PYTHON"
 }
