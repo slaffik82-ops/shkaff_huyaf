@@ -1,7 +1,7 @@
 {
-  "app_version_code": 16,
-  "apk_url": "https://github.com/slaffik82-ops/shkaff_huyaf/releases/download/v1.0.16/app-release.apk",
-  "app_description": "Обновление",
+  "app_version_code": 17,
+  "apk_url": "https://github.com/slaffik82-ops/shkaff_huyaf/releases/download/v1.0.17/app-release.apk",
+  "app_description": "Мелкие добавления",
 
   "db_version": 8,
   "db_url": "https://cdn.jsdelivr.net/gh/slaffik82-ops/shkaff_huyaf@main/telecom_cabinets.enc",
