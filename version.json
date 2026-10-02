@@ -1,7 +1,7 @@
 {
-  "app_version_code": 17,
-  "apk_url": "https://github.com/slaffik82-ops/shkaff_huyaf/releases/download/v1.0.17/app-release.apk",
-  "app_description": "Мелкие добавления",
+  "app_version_code": 18,
+  "apk_url": "https://github.com/slaffik82-ops/shkaff_huyaf/releases/download/v1.0.18/app-release.apk",
+  "app_description": "Что нового в версии 18:\n• 📷 Добавлены фото ключей и РШ\n• 🗺️ Открытие адреса в Яндекс.Картах в 1 клик\n• немного переработан поиск"
 
   "db_version": 8,
   "db_url": "https://cdn.jsdelivr.net/gh/slaffik82-ops/shkaff_huyaf@main/telecom_cabinets.enc",
