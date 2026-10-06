@@ -1,6 +1,6 @@
 {
-  "app_version_code": 19,
-  "apk_url": "https://github.com/slaffik82-ops/shkaff_huyaf/releases/download/v1.0.18/app-release.apk",
+  "app_version_code": 27,
+  "apk_url": "https://github.com/slaffik82-ops/shkaff_huyaf/releases/download/v1.0.27/app-release.apk",
   "app_description": "Что нового в версии 19:\n• Небольшие доработки с цветами текста\n• 🗺️ Открытие адреса в Яндекс.Картах в 1 клик\n• Загрузка фото ключей, ДРС, и РШ",
 
   "db_version": 8,
