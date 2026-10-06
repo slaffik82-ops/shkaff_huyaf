@@ -4,7 +4,7 @@
   "app_description": "Что нового в версии 18:\n• 📷 Добавлены фото ключей и РШ\n• 🗺️ Открытие адреса в Яндекс.Картах в 1 клик\n• немного переработан поиск",
 
   "db_version": 8,
-  "db_url": "https://cdn.jsdelivr.net/gh/slaffik82-ops/shkaff_huyaf@main/telecom_cabinets.enc",
+  "db_url": "https://github.com/slaffik82-ops/shkaff_huyaf/releases/download/media-v1.0/telecom_cabinets.enc",
   "db_description": "Свежая база шкафов",
   "db_pin_hash": "2b008bc784eb24e8b14e2d8eea061611f1e581d5e81a5a360d6b5f26eda7629f",
 
