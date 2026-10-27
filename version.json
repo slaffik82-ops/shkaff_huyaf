@@ -2,20 +2,16 @@
   "app_version_code": 29,
   "apk_url": "https://github.com/slaffik82-ops/shkaff_huyaf/releases/download/v1.0.29/app-release.apk",
   "app_description": "Что нового:\n• ⚡ Быстрые микро-обновления фото\n• 📷 Обновленная база РШ\n• 🏛️ База 654 УК и ТСЖ города с прямыми телефонами",
-
-  "db_version": 8,
+  "db_version": 271056,
   "db_url": "https://github.com/slaffik82-ops/shkaff_huyaf/releases/download/media-v1.0/telecom_cabinets.enc",
   "db_description": "Свежая база шкафов",
-  "db_pin_hash": "2b008bc784eb24e8b14e2d8eea061611f1e581d5e81a5a360d6b5f26eda7629f",
-
+  "db_pin_hash": "f5946a47638f389aebc3b944c636a3bb7f304511d4fa1f30b5cba95c0906432c",
   "media_version": 1,
   "media_patch_url": "https://github.com/slaffik82-ops/shkaff_huyaf/releases/download/media-v1.0/media_patch_v1.enc",
   "media_patch_desc": "Свежие фото и ключи",
-
   "keys_url": "https://github.com/slaffik82-ops/shkaff_huyaf/releases/download/media-v1.0/keys_pack.enc",
   "rsh_url": "https://github.com/slaffik82-ops/shkaff_huyaf/releases/download/media-v1.0/rsh_pack.enc",
   "drs_url": "https://github.com/slaffik82-ops/shkaff_huyaf/releases/download/media-v1.0/drs_pack.zip",
-
   "housing_version": 1,
   "housing_url": "https://github.com/slaffik82-ops/shkaff_huyaf/releases/download/media-v1.0/housing.enc"
 }
